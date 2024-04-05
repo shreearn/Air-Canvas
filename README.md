@@ -14,7 +14,11 @@ Technologies Used
 4. NumPy: Library for numerical computations.
 
 How to Use
+
 Install the required libraries (OpenCV, Mediapipe, NumPy, Streamlit).
+
 Run the application.
+
 Welcome to Air Canvas, where you can use your hand gestures to draw on a virtual canvas! If you want to move your hand without drawing, simply bring your forefinger and thumb closer together to pause. To select a color, move your hand into the color box with your forefinger extended. Your hand should be visible on the screen to detect your gestures.
-Have fun creating digital art in a unique and interactive way!
+
+Have fun creating digital art in a unique and interactive way! 
