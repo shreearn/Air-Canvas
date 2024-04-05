@@ -8,10 +8,10 @@ Key Features
 4. Real-time tracking ensures a seamless and responsive drawing experience.
 
 Technologies Used
-Python: Programming language used for the application logic.
-OpenCV: Computer vision library for processing webcam input and hand tracking.
-Mediapipe: Framework for machine learning solutions like hand tracking.
-NumPy: Library for numerical computations.
+1. Python: Programming language used for the application logic.
+2. OpenCV: Computer vision library for processing webcam input and hand tracking.
+3. Mediapipe: Framework for machine learning solutions like hand tracking.
+4. NumPy: Library for numerical computations.
 
 How to Use
 Install the required libraries (OpenCV, Mediapipe, NumPy, Streamlit).
